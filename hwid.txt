@@ -1,3 +1,4 @@
 //anlatıyorum... hwid adreslerini numara olarak yapıştırcaksın.. yanına 2 tane / koyup dc ısmını yazıcaksın ve onaylıcaksın. bu kadar... eger dc den cıkarsa siliceksin. örn:
 //NUMARA//DCİSMİM
 S-1-5-21-3494484224-2328479868-4258379446-1001 // ZEN
+S-1-5-21-2546505737-3615650982-2638665903-1001 //Cemo
